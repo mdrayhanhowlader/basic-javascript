@@ -15,3 +15,5 @@ var b;
 // Only change code below this line
 
 var b = a;
+
+var a = 9;
