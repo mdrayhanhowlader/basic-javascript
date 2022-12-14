@@ -1,0 +1,2 @@
+// Javascript Comment
+/* Javascript comment */
